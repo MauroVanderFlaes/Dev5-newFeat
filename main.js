@@ -6,4 +6,5 @@ document.getElementById('sendNumber').addEventListener('click', function () {
   let result = number;
   console.log(result);
 
+
 });
